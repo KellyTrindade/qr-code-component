@@ -10,7 +10,6 @@ Essa é uma solução para o [desafio QR code component do Frontend Mentor](http
 
 
 ## Meu Processo
-
 ### Desenvolvido com
 
 - [React](https://react.dev/)
@@ -21,3 +20,8 @@ Essa é uma solução para o [desafio QR code component do Frontend Mentor](http
 ### Objetivos
 
 Praticar React com um projeto simples, aplicando o básico da biblioteca para concluir o estudo.
+
+
+### Deploy
+
+[QR Code Component](https://ktrindade-qr-code-frontendmentor.netlify.app/)
